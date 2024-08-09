@@ -17,3 +17,6 @@ Comparing different approaches to commits and merges
 
 ## One Commit with Rebase Merge
 - One commit
+
+## Multiple Commits with Rebase Merge
+- First commit
