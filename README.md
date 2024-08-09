@@ -20,3 +20,4 @@ Comparing different approaches to commits and merges
 
 ## Multiple Commits with Rebase Merge
 - First commit
+- Second commit
