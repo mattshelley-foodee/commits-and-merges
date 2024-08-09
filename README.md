@@ -10,3 +10,6 @@ Comparing different approaches to commits and merges
 
 ## One Commit with Squash Merge
 - One commit
+
+## Multiple Commits with Sqush Merge
+- First commit
