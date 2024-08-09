@@ -7,3 +7,6 @@ Comparing different approaches to commits and merges
 ## Multiple Commits with Merge
 - First commit
 - Second commit
+
+## One Commit with Squash Merge
+- One commit
