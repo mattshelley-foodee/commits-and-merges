@@ -13,3 +13,4 @@ Comparing different approaches to commits and merges
 
 ## Multiple Commits with Sqush Merge
 - First commit
+- Second commit
